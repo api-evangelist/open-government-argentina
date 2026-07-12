@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://datos.gob.ar/
 common:
+  - type: DomainSecurity
+    url: security/open-government-argentina-domain-security.yml
   - type: Website
     url: https://datos.gob.ar/
   - type: PublicAPIsListing
