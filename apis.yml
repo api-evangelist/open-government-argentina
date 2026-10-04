@@ -39,7 +39,6 @@ apis:
   - name: Open Government, Argentina
     description: "Argentina Government Open Data"
     humanURL: https://datos.gob.ar/
-    baseURL: https://datos.gob.ar/
     tags:
       - Government
     properties:
